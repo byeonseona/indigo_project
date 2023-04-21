@@ -1,0 +1,13 @@
+[display-section]
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a<br>piece of classical Latin literature from 45 BC, making it over 2000 years old.
+
+[promotion-section]
+Lorem Ipsum is simply dummy text of
+the printing and typesetting industry
+
+
+[blog-section]
+There are many variations of passages of Lorem Ipsum
+
+헤더에서 슬라이드 영역까지 높이값 최대1080
+파비콘 제작 사이즈 16*16 png로 내보내고 ico확장자 변경
